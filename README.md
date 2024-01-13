@@ -13,7 +13,7 @@ Bienvenido al juego de Batalla Naval en Python. Este juego permite a dos jugador
 ## Instrucciones de Ejecución
 1. Clona o descarga este repositorio en tu máquina local.
 2. Abre una terminal y navega al directorio del proyecto.
-3. Ejecuta el script con el siguiente comando:
+
 
 
 ## Configuración del Juego
